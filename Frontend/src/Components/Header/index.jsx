@@ -3,6 +3,7 @@ import Logo from '../../assets/images/logo.jpg'
 const Header = () => {
     return (
         <>
+           {/* Hello this is Hritik  */}
             <div className="headerWrapper">
                 <div className="top-strip bg-blue">
                     <div className="container">
